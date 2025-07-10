@@ -6,7 +6,7 @@ I’m a passionate technology enthusiast, always eager to explore new ideas and 
 
 I believe in collaboration, innovation, and adaptability — whether it’s building something from scratch, joining a dynamic team, or simply learning something new on my own.
 
-Currently, I’m working on my personal portfolio (still under development), where you’ll soon find a more detailed biography, some of my favorite projects, and insights into what drives me as a developer and creator.
+Currently, I’m working on [my personal portfolio](https://pedromc11.github.io) (still under development), where you’ll soon find a more detailed biography, some of my favorite projects, and insights into what drives me as a developer and creator.
 
 ## 🌐 Contact Me
 
